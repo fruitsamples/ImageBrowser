@@ -5,26 +5,24 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleExecutable</key>
-	<string>${EXECUTABLE_NAME}</string>
-	<key>CFBundleIconFile</key>
-	<string></string>
+	<string>ImageBrowser</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.apple.samplecode.${PRODUCT_NAME:identifier}</string>
+	<string>com.apple.samplecode.ImageBrowser</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>${PRODUCT_NAME}</string>
+	<string>ImageBrowser</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>1.2</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.5</string>
 	<key>NSMainNibFile</key>
 	<string>MainMenu</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-    <key>LSMinimumSystemVersion</key>
-	<string>10.5</string>
 </dict>
 </plist>
